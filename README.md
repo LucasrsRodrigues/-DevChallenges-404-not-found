@@ -3,7 +3,7 @@
 Esse projeto foi criado para resolver o desafio do DevChallenges.io
 
 
-![Screenshot](../assets//banner.png)
+![Screenshot](https://github.com/LucasrsRodrigues/-DevChallenges-404-not-found/blob/main/src/assets/banner.png)
 
 
 # Como rodar
