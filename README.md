@@ -3,7 +3,7 @@
 Esse projeto foi criado para resolver o desafio do DevChallenges.io
 
 
-![Screenshot](../../assets//banner.png)
+![Screenshot](../assets//banner.png)
 
 
 # Como rodar
